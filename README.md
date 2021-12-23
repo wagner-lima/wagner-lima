@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="400" height="400" src="https://avatars.githubusercontent.com/u/50275874?v=4">
+<!-- <img align="right" width="400" height="400" src="https://avatars.githubusercontent.com/u/50275874?v=4">-->
 
 # Welcome!
 
 ## I'm Wagner!
 
 🤖 RPA Developer focused on UiPath 🤖 
+
 🌱 I'm currently learning backend development using .NET/C# 🌱
 
 ## About me 
